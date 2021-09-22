@@ -1,0 +1,39 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "name": "learn coding",
+      "status": false
+    },
+    {
+      "id": 2,
+      "name": "Learn java script",
+      "status": false
+    },
+    {
+      "name": "Learn Python",
+      "status": false,
+      "id": 4
+    },
+    {
+      "name": "Learn nodejs",
+      "status": false,
+      "id": 5
+    },
+    {
+      "name": "Learn django",
+      "status": false,
+      "id": 6
+    },
+    {
+      "name": "Learn maching learning",
+      "status": false,
+      "id": 7
+    },
+    {
+      "name": "Learn React",
+      "status": false,
+      "id": 8
+    }
+  ]
+}
